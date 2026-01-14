@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seblak Kota Bambu Utara</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffcccc; /* Latar merah muda pedas */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff0000; /* Merah pedas */
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+            border-radius: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+        a {
+            color: #ff0000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Seblak Kota Bambu Utara</h1>
+        <p>Pedasnya Menggoda, Gurihnya Menggugah Selera!</p>
+    </header>
+    <div class="container">
+        <img src="https://images.unsplash.com/photo-1551782450-17144efb5723?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Gambar Seblak Pedas">
+        <h2>Tentang Kami</h2>
+        <p>Kami adalah UMKM seblak di dekat Jalan Kota Bambu Utara, menyajikan seblak autentik dengan bahan segar dan rasa pedas yang pas. Pesan sekarang!</p>
+        
+        <h2>Daftar Menu</h2>
+        <ul>
+            <li><strong>Seblak Klasik</strong> - Rp 10.000: Kerupuk, mie, sayur, telur. Pedas sedang.</li>
+            <li><strong>Seblak Pedas Level 1</strong> - Rp 12.000: Tambah bakso dan sosis, pedas tinggi.</li>
+            <li><strong>Seblak Seafood</strong> - Rp 15.000: Tambah udang, cumi, ikan, kuah kental.</li>
+            <li><strong>Seblak Komplit</strong> - Rp 18.000: Semua topping, pedas ekstra.</li>
+            <li><strong>Seblak Jumbo</strong> - Rp 20.000: Porsi besar dengan keju dan ayam, untuk 2 orang.</li>
+        </ul>
+        
+        <div class="contact">
+            <h2>Hubungi Kami</h2>
+            <p>WhatsApp: <a href="https://wa.me/6285846011477">085846011477</a></p>
+            <p>Instagram: <a href="https://instagram.com/rizkyyfauzi_">@rizkyyfauzi_</a></p>
+            <p>Facebook: <a href="https://facebook.com/PedasSeblakBambu">@PedasSeblakBambu</a></p>
+        </div>
+    </div>
+</body>
+</html>
